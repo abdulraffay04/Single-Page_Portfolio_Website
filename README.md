@@ -37,6 +37,3 @@ It is designed for **developers, designers, photographers, and freelancers** to 
 
 ## Made By ABDUL RAFFAY
 
----
-
-## 📩 How to Use
